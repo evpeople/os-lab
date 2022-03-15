@@ -1,0 +1,2397 @@
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find test0: REFUSED
+
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+Non-authoritative answer:
+Name:	test1
+Address: 11.111.11.111
+** server can't find test1: NXDOMAIN
+
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+Non-authoritative answer:
+Name:	test2
+Address: 22.22.222.222
+** server can't find test2: NXDOMAIN
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find 008.cn: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find 2qq.cn: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find 555.265.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find abc.265.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find abcdesign.ru: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find ad.qingyule.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find alexey.pioneers.com.ru: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find baltnet.ru: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find cctv1.net: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find cctv8.net: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find chinabdkx.363.net: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find ciachoo.pl: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find clients.babylon.co.il: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find dicto.ru: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find elemental.ru: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find errorguard.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find financial.washingtonpost.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find free.bestialityhost.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find friendlygreeting.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find gamma.vyborg.ru: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find gin.ru: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find girlchinese.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find glass-master.ru: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find gutemine.wu-wien.ac.at: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find hack-gegen-rechts.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find hgrstrailer.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find home.kimo.com.tw: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find home.profootball.ru: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find hotbar.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find hothack.home.chinaren.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find intellect.lvc: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find interfoodtd.ru: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find it.trendmicro-europe.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find jewishgen.org: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find k2kapital.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find lars-s.privat.t-online.de: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find laugh-mail.net: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find marketscore.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find math.kobe-u.ac.jp: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find me.5e163.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find momentum.ru: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find movie.sx.zj.cn: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find nefkom.net: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find newyouth.3322.net: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find no-abi2003.de: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find packages.debian.or.jp: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find perfectgirls.net: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find peterstar.ru: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find pgipearls.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find phg.pl: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find photo.gornet.ru: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find pollen.my001.net: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find polobeer.de: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find porno-mania.net: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find puldk490gj.da.ru: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find qianbai.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find qm.8ok.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find quotes.barchart.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find relay.great.ru: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find republika.pl: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find rollenspielzirkel.de: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find safer-networking.org: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find sdsauto.ru: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find sec.polbox.pl: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find security.kolla.de: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find shadkhan.ru: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find slavarik.ru: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find sovea.de: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find spybot.info: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find tdi-router.opola.pl: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find trendmicro.it: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find truefriends.net: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find tty.yyun.net: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find tuhart.net: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find u.t2cn.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find vconsole.net: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find vip.pnet.pl: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find virtumonde.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find webpark.pl: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find winzheng.126.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find wishken.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.126p.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.139500.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.163mm.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.1yin.net: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.37021.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.47555.net: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.511ring.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.51bug.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.51hot.net: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.555666.net: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.58589.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.5dsoft.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.5DSOFT.COM: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find WWW.5dsoft.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find WWW.5DSOFT.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.666e.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.777888.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.777888.net: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.77ttt.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.7yin.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.89005.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.9991.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.9p.cn: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.a521.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.aifind.info: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.aisa-girl.net: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.allyes.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.amoisonic.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.aogo.net: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.baigecn.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.boliwo.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.BOLIWU.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find WWW.BOLIWU.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.cctv1.net: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.cctv8.net: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.CNOOO.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find WWW.CNOOO.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.cnqb.net: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.coolcdrom.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find zhendeshi.tiebiechang-tiebiechangde.zuichang255zifu.domain-name.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.coolseach.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.dhchao.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.dj3344.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.donttrip.org: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.ehomeday.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.es158.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.fassia.net: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.fbstu.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.fish3000.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.flyingwalk.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.fm1058.cc: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.fm1058.cc: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.fm1058.cc: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.ftlink.net: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.fz20.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.gg888.net: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.girl008.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.girlchinese.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.guosir.ccoo.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.homepage.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.jinpin.net: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.jixian.net: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.k163.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.kuliao.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.lilizhen.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.markguide.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.mir0.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.mmgirls.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.mtv51.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.mydj2005.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.ncunet.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.net5w.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.pixpox.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.pk.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.play.cn.gs: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.qlwl.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.qq168.net: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.qq3344.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.qq3344.net: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.qq92.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.qqwz.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.qu123.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.richfind.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.searchpage.cc: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.seekeasysoft.net: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.start-page.info: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.sunvod.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.t168.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.top666.net: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.tthao.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.ttjj.com.cn: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.ttrx.net: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.tvliao.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.unionsky.cn: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.unionsky.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.unionsky.net: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.wizissoft.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.wokoo.net: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.wplune.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.wxku.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.xiliao.com.cn: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.xxx.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.xyxc.ccoo.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.yeapple.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.yezine.net: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.yibinren.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.yinshang.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.youmiss.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.yule21.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.yyqy.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.yysky.net: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.zhengdian.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find www.zknew.com: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find xajh.15888.net: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find xyxy68.8u8.net: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find youlove.3322.net: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find zbszx.vicp.net: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find zelnet.ru: REFUSED
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find zhp.gdynia.pl: REFUSED
+
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+Non-authoritative answer:
+Name:	sina
+Address: 202.108.33.89
+
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+Non-authoritative answer:
+Name:	sohu
+Address: 61.135.181.175
+
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+Non-authoritative answer:
+Name:	bupt
+Address: 123.127.134.10
+** server can't find bupt: NXDOMAIN
+
+;; Warning: Message parser reports malformed message packet.
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+** server can't find ad4.sina.com.cn: REFUSED
+
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+Non-authoritative answer:
+Name:	h0
+Address: 192.168.0.0
+** server can't find h0: NXDOMAIN
+
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+Non-authoritative answer:
+Name:	h1
+Address: 192.168.0.1
+** server can't find h1: NXDOMAIN
+
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+Non-authoritative answer:
+Name:	h2
+Address: 192.168.0.2
+** server can't find h2: NXDOMAIN
+
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+Non-authoritative answer:
+Name:	h3
+Address: 192.168.0.3
+** server can't find h3: NXDOMAIN
+
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+Non-authoritative answer:
+Name:	h4
+Address: 192.168.0.4
+** server can't find h4: NXDOMAIN
+
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+Non-authoritative answer:
+Name:	h5
+Address: 192.168.0.5
+** server can't find h5: NXDOMAIN
+
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+Non-authoritative answer:
+Name:	h6
+Address: 192.168.0.6
+** server can't find h6: NXDOMAIN
+
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+Non-authoritative answer:
+Name:	h7
+Address: 192.168.0.7
+** server can't find h7: NXDOMAIN
+
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+Non-authoritative answer:
+Name:	h8
+Address: 192.168.0.8
+** server can't find h8: NXDOMAIN
+
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+Non-authoritative answer:
+Name:	h9
+Address: 192.168.0.9
+** server can't find h9: NXDOMAIN
+
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+Non-authoritative answer:
+Name:	h10
+Address: 192.168.0.10
+** server can't find h10: NXDOMAIN
+
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+Non-authoritative answer:
+Name:	h11
+Address: 192.168.0.11
+** server can't find h11: NXDOMAIN
+
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+Non-authoritative answer:
+Name:	h12
+Address: 192.168.0.12
+** server can't find h12: NXDOMAIN
+
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+Non-authoritative answer:
+Name:	h13
+Address: 192.168.0.13
+** server can't find h13: NXDOMAIN
+
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+Non-authoritative answer:
+Name:	h14
+Address: 192.168.0.14
+** server can't find h14: NXDOMAIN
+
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+Non-authoritative answer:
+Name:	h15
+Address: 192.168.0.15
+** server can't find h15: NXDOMAIN
+
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+Non-authoritative answer:
+Name:	h16
+Address: 192.168.0.16
+** server can't find h16: NXDOMAIN
+
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+Non-authoritative answer:
+Name:	h17
+Address: 192.168.0.17
+** server can't find h17: NXDOMAIN
+
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+Non-authoritative answer:
+Name:	h18
+Address: 192.168.0.18
+** server can't find h18: NXDOMAIN
+
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+Non-authoritative answer:
+Name:	h19
+Address: 192.168.0.19
+** server can't find h19: NXDOMAIN
+
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+Non-authoritative answer:
+Name:	h20
+Address: 192.168.0.20
+** server can't find h20: NXDOMAIN
+
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+Non-authoritative answer:
+Name:	h21
+Address: 192.168.0.21
+** server can't find h21: NXDOMAIN
+
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+Non-authoritative answer:
+Name:	h22
+Address: 192.168.0.22
+** server can't find h22: NXDOMAIN
+
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+Non-authoritative answer:
+Name:	h23
+Address: 192.168.0.23
+** server can't find h23: NXDOMAIN
+
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+Non-authoritative answer:
+Name:	h24
+Address: 192.168.0.24
+** server can't find h24: NXDOMAIN
+
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+Non-authoritative answer:
+Name:	h25
+Address: 192.168.0.25
+** server can't find h25: NXDOMAIN
+
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+Non-authoritative answer:
+Name:	h26
+Address: 192.168.0.26
+** server can't find h26: NXDOMAIN
+
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+Non-authoritative answer:
+Name:	h27
+Address: 192.168.0.27
+** server can't find h27: NXDOMAIN
+
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+Non-authoritative answer:
+Name:	h28
+Address: 192.168.0.28
+** server can't find h28: NXDOMAIN
+
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+Non-authoritative answer:
+Name:	h29
+Address: 192.168.0.29
+** server can't find h29: NXDOMAIN
+
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+Non-authoritative answer:
+Name:	h30
+Address: 192.168.0.30
+** server can't find h30: NXDOMAIN
+
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+Non-authoritative answer:
+Name:	h31
+Address: 192.168.0.31
+** server can't find h31: NXDOMAIN
+
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+Non-authoritative answer:
+Name:	h32
+Address: 192.168.0.32
+** server can't find h32: NXDOMAIN
+
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+Non-authoritative answer:
+Name:	h33
+Address: 192.168.0.33
+** server can't find h33: NXDOMAIN
+
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+Non-authoritative answer:
+Name:	h34
+Address: 192.168.0.34
+** server can't find h34: NXDOMAIN
+
+Server:		127.0.0.1
+Address:	127.0.0.1#6801
+
+Non-authoritative answer:
+Name:	h35
+Address: 192.168.0.35
+;; connection timed out; no servers could be reached
+
+
+;; connection timed out; no servers could be reached
+
+
+;; connection timed out; no servers could be reached
+
+
+;; connection timed out; no servers could be reached
+
+
+;; connection timed out; no servers could be reached
+
+
+;; connection timed out; no servers could be reached
+
+
+;; connection timed out; no servers could be reached
+
+
+;; connection timed out; no servers could be reached
+
+
+;; connection timed out; no servers could be reached
+
+
+;; connection timed out; no servers could be reached
+
+
+;; connection timed out; no servers could be reached
+
+
+;; connection timed out; no servers could be reached
+
+
+;; connection timed out; no servers could be reached
+
+
+;; connection timed out; no servers could be reached
+
+
+;; connection timed out; no servers could be reached
+
+
+;; connection timed out; no servers could be reached
+
+
+;; connection timed out; no servers could be reached
+
+
+;; connection timed out; no servers could be reached
+
+
+;; connection timed out; no servers could be reached
+
+
+;; connection timed out; no servers could be reached
+
+
+;; connection timed out; no servers could be reached
+
+
+;; connection timed out; no servers could be reached
+
+
+
+0.0.0.00
+test0
+
+11.111.11.1110
+test1
+
+22.22.222.2220
+test2
+
+0.0.0.00
+008.cn
+
+0.0.0.00
+2qq.cn
+
+0.0.0.00
+555.265.com
+
+0.0.0.00
+abc.265.com
+
+0.0.0.00
+abcdesign.ru
+
+0.0.0.00
+ad.qingyule.com
+
+0.0.0.00
+alexey.pioneers.com.ru
+
+0.0.0.00
+baltnet.ru
+
+0.0.0.00
+cctv1.net
+
+0.0.0.00
+cctv8.net
+
+0.0.0.00
+chinabdkx.363.net
+
+0.0.0.00
+ciachoo.pl
+
+0.0.0.00
+clients.babylon.co.il
+
+0.0.0.00
+dicto.ru
+
+0.0.0.00
+elemental.ru
+
+0.0.0.00
+errorguard.com
+
+0.0.0.00
+financial.washingtonpost.com
+
+0.0.0.00
+free.bestialityhost.com
+
+0.0.0.00
+friendlygreeting.com
+
+0.0.0.00
+gamma.vyborg.ru
+
+0.0.0.00
+gin.ru
+
+0.0.0.00
+girlchinese.com
+
+0.0.0.00
+glass-master.ru
+
+0.0.0.00
+gutemine.wu-wien.ac.at
+
+0.0.0.00
+hack-gegen-rechts.com
+
+0.0.0.00
+hgrstrailer.com
+
+0.0.0.00
+home.kimo.com.tw
+
+0.0.0.00
+home.profootball.ru
+
+0.0.0.00
+hotbar.com
+
+0.0.0.00
+hothack.home.chinaren.com
+
+0.0.0.00
+intellect.lvc
+
+0.0.0.00
+interfoodtd.ru
+
+0.0.0.00
+it.trendmicro-europe.com
+
+0.0.0.00
+jewishgen.org
+
+0.0.0.00
+k2kapital.com
+
+0.0.0.00
+lars-s.privat.t-online.de
+
+0.0.0.00
+laugh-mail.net
+
+0.0.0.00
+marketscore.com
+
+0.0.0.00
+math.kobe-u.ac.jp
+
+0.0.0.00
+me.5e163.com
+
+0.0.0.00
+momentum.ru
+
+0.0.0.00
+movie.sx.zj.cn
+
+0.0.0.00
+nefkom.net
+
+0.0.0.00
+newyouth.3322.net
+
+0.0.0.00
+no-abi2003.de
+
+0.0.0.00
+packages.debian.or.jp
+
+0.0.0.00
+perfectgirls.net
+
+0.0.0.00
+peterstar.ru
+
+0.0.0.00
+pgipearls.com
+
+0.0.0.00
+phg.pl
+
+0.0.0.00
+photo.gornet.ru
+
+0.0.0.00
+pollen.my001.net
+
+0.0.0.00
+polobeer.de
+
+0.0.0.00
+porno-mania.net
+
+0.0.0.00
+puldk490gj.da.ru
+
+0.0.0.00
+qianbai.com
+
+0.0.0.00
+qm.8ok.com
+
+0.0.0.00
+quotes.barchart.com
+
+0.0.0.00
+relay.great.ru
+
+0.0.0.00
+republika.pl
+
+0.0.0.00
+rollenspielzirkel.de
+
+0.0.0.00
+safer-networking.org
+
+0.0.0.00
+sdsauto.ru
+
+0.0.0.00
+sec.polbox.pl
+
+0.0.0.00
+security.kolla.de
+
+0.0.0.00
+shadkhan.ru
+
+0.0.0.00
+slavarik.ru
+
+0.0.0.00
+sovea.de
+
+0.0.0.00
+spybot.info
+
+0.0.0.00
+tdi-router.opola.pl
+
+0.0.0.00
+trendmicro.it
+
+0.0.0.00
+truefriends.net
+
+0.0.0.00
+tty.yyun.net
+
+0.0.0.00
+tuhart.net
+
+0.0.0.00
+u.t2cn.com
+
+0.0.0.00
+vconsole.net
+
+0.0.0.00
+vip.pnet.pl
+
+0.0.0.00
+virtumonde.com
+
+0.0.0.00
+webpark.pl
+
+0.0.0.00
+winzheng.126.com
+
+0.0.0.00
+wishken.com
+
+0.0.0.00
+www.126p.com
+
+0.0.0.00
+www.139500.com
+
+0.0.0.00
+www.163mm.com
+
+0.0.0.00
+www.1yin.net
+
+0.0.0.00
+www.37021.com
+
+0.0.0.00
+www.47555.net
+
+0.0.0.00
+www.511ring.com
+
+0.0.0.00
+www.51bug.com
+
+0.0.0.00
+www.51hot.net
+
+0.0.0.00
+www.555666.net
+
+0.0.0.00
+www.58589.com
+
+0.0.0.00
+www.5dsoft.com
+
+0.0.0.00
+www.5DSOFT.COM
+
+0.0.0.00
+WWW.5dsoft.com
+
+0.0.0.00
+WWW.5DSOFT.com
+
+0.0.0.00
+www.666e.com
+
+0.0.0.00
+www.777888.com
+
+0.0.0.00
+www.777888.net
+
+0.0.0.00
+www.77ttt.com
+
+0.0.0.00
+www.7yin.com
+
+0.0.0.00
+www.89005.com
+
+0.0.0.00
+www.9991.com
+
+0.0.0.00
+www.9p.cn
+
+0.0.0.00
+www.a521.com
+
+0.0.0.00
+www.aifind.info
+
+0.0.0.00
+www.aisa-girl.net
+
+0.0.0.00
+www.allyes.com
+
+0.0.0.00
+www.amoisonic.com
+
+0.0.0.00
+www.aogo.net
+
+0.0.0.00
+www.baigecn.com
+
+0.0.0.00
+www.boliwo.com
+
+0.0.0.00
+www.BOLIWU.com
+
+0.0.0.00
+WWW.BOLIWU.com
+
+0.0.0.00
+www.cctv1.net
+
+0.0.0.00
+www.cctv8.net
+
+0.0.0.00
+www.CNOOO.com
+
+0.0.0.00
+WWW.CNOOO.com
+
+0.0.0.00
+www.cnqb.net
+
+0.0.0.00
+www.coolcdrom.com
+
+0.0.0.00
+zhendeshi.tiebiechang-tiebiechangde.zuichang255zifu.domain-name.com
+
+0.0.0.00
+www.coolseach.com
+
+0.0.0.00
+www.dhchao.com
+
+0.0.0.00
+www.dj3344.com
+
+0.0.0.00
+www.donttrip.org
+
+0.0.0.00
+www.ehomeday.com
+
+0.0.0.00
+www.es158.com
+
+0.0.0.00
+www.fassia.net
+
+0.0.0.00
+www.fbstu.com
+
+0.0.0.00
+www.fish3000.com
+
+0.0.0.00
+www.flyingwalk.com
+
+0.0.0.00
+www.fm1058.cc
+
+0.0.0.00
+www.fm1058.cc
+
+0.0.0.00
+www.fm1058.cc
+
+0.0.0.00
+www.ftlink.net
+
+0.0.0.00
+www.fz20.com
+
+0.0.0.00
+www.gg888.net
+
+0.0.0.00
+www.girl008.com
+
+0.0.0.00
+www.girlchinese.com
+
+0.0.0.00
+www.guosir.ccoo.com
+
+0.0.0.00
+www.homepage.com
+
+0.0.0.00
+www.jinpin.net
+
+0.0.0.00
+www.jixian.net
+
+0.0.0.00
+www.k163.com
+
+0.0.0.00
+www.kuliao.com
+
+0.0.0.00
+www.lilizhen.com
+
+0.0.0.00
+www.markguide.com
+
+0.0.0.00
+www.mir0.com
+
+0.0.0.00
+www.mmgirls.com
+
+0.0.0.00
+www.mtv51.com
+
+0.0.0.00
+www.mydj2005.com
+
+0.0.0.00
+www.ncunet.com
+
+0.0.0.00
+www.net5w.com
+
+0.0.0.00
+www.pixpox.com
+
+0.0.0.00
+www.pk.com
+
+0.0.0.00
+www.play.cn.gs
+
+0.0.0.00
+www.qlwl.com
+
+0.0.0.00
+www.qq168.net
+
+0.0.0.00
+www.qq3344.com
+
+0.0.0.00
+www.qq3344.net
+
+0.0.0.00
+www.qq92.com
+
+0.0.0.00
+www.qqwz.com
+
+0.0.0.00
+www.qu123.com
+
+0.0.0.00
+www.richfind.com
+
+0.0.0.00
+www.searchpage.cc
+
+0.0.0.00
+www.seekeasysoft.net
+
+0.0.0.00
+www.start-page.info
+
+0.0.0.00
+www.sunvod.com
+
+0.0.0.00
+www.t168.com
+
+0.0.0.00
+www.top666.net
+
+0.0.0.00
+www.tthao.com
+
+0.0.0.00
+www.ttjj.com.cn
+
+0.0.0.00
+www.ttrx.net
+
+0.0.0.00
+www.tvliao.com
+
+0.0.0.00
+www.unionsky.cn
+
+0.0.0.00
+www.unionsky.com
+
+0.0.0.00
+www.unionsky.net
+
+0.0.0.00
+www.wizissoft.com
+
+0.0.0.00
+www.wokoo.net
+
+0.0.0.00
+www.wplune.com
+
+0.0.0.00
+www.wxku.com
+
+0.0.0.00
+www.xiliao.com.cn
+
+0.0.0.00
+www.xxx.com
+
+0.0.0.00
+www.xyxc.ccoo.com
+
+0.0.0.00
+www.yeapple.com
+
+0.0.0.00
+www.yezine.net
+
+0.0.0.00
+www.yibinren.com
+
+0.0.0.00
+www.yinshang.com
+
+0.0.0.00
+www.youmiss.com
+
+0.0.0.00
+www.yule21.com
+
+0.0.0.00
+www.yyqy.com
+
+0.0.0.00
+www.yysky.net
+
+0.0.0.00
+www.zhengdian.com
+
+0.0.0.00
+www.zknew.com
+
+0.0.0.00
+xajh.15888.net
+
+0.0.0.00
+xyxy68.8u8.net
+
+0.0.0.00
+youlove.3322.net
+
+0.0.0.00
+zbszx.vicp.net
+
+0.0.0.00
+zelnet.ru
+
+0.0.0.00
+zhp.gdynia.pl
+
+202.108.33.890
+sina
+61.135.181.1750
+sohu
+
+123.127.134.100
+bupt
+
+0.0.0.00
+ad4.sina.com.cn
+
+192.168.0.00
+h0
+
+192.168.0.10
+h1
+
+192.168.0.20
+h2
+
+192.168.0.30
+h3
+
+192.168.0.40
+h4
+
+192.168.0.50
+h5
+
+192.168.0.60
+h6
+
+192.168.0.70
+h7
+
+192.168.0.80
+h8
+
+192.168.0.90
+h9
+
+192.168.0.100
+h10
+
+192.168.0.110
+h11
+
+192.168.0.120
+h12
+
+192.168.0.130
+h13
+
+192.168.0.140
+h14
+
+192.168.0.150
+h15
+
+192.168.0.160
+h16
+
+192.168.0.170
+h17
+
+192.168.0.180
+h18
+
+192.168.0.190
+h19
+
+192.168.0.200
+h20
+
+192.168.0.210
+h21
+
+192.168.0.220
+h22
+
+192.168.0.230
+h23
+
+192.168.0.240
+h24
+
+192.168.0.250
+h25
+
+192.168.0.260
+h26
+
+192.168.0.270
+h27
+
+192.168.0.280
+h28
+
+192.168.0.290
+h29
+
+192.168.0.300
+h30
+
+192.168.0.310
+h31
+
+192.168.0.320
+h32
+
+192.168.0.330
+h33
+
+192.168.0.340
+h34
+
+192.168.0.350
+h35
+
+192.168.0.360
+h36
+
+192.168.0.370
+h37
+
+192.168.0.380
+h38
+
+192.168.0.390
+h39
+
+192.168.0.400
+h40
+
+192.168.0.410
+h41
+
+192.168.0.420
+h42
+
+192.168.0.430
+h43
+
+192.168.0.440
+h44
+
+192.168.0.450
+h45
+
+192.168.0.460
+h46
+
+192.168.0.470
+h47
+
+192.168.0.480
+h48
+
+192.168.0.490
+h49
+
+192.168.0.500
+h50
+
+192.168.0.510
+h51
+
+192.168.0.520
+h52
+
+192.168.0.530
+h53
+
+192.168.0.540
+h54
+
+192.168.0.550
+h55
+
+192.168.0.560
+h56
+
+192.168.0.570
+h57
+
