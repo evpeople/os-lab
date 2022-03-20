@@ -58,7 +58,7 @@ int main()
      print("ddddddddd",5);//参数入栈从右至左进行,p先进栈,str后进 &p>&str    
      printf("main=%p print=%p \n",main,print);    
      //打印代码段中主函数和子函数的地址，编译时先编译的地址低，后编译的地址高main<print    
- }    
+}    
   
 void print(char *str,int p)    
 {    
@@ -82,5 +82,5 @@ void print(char *str,int p)
     /* 栈和堆是在程序运行时候动态分配的，局部变量均在栈上分配。 
         栈是反向增长的，地址递减；malloc等分配的内存空间在堆空间。堆是正向增长的，地址递增。   
         r,w变量在栈上(则&r>&w)，r,w所指内容在堆中(即r<w)。*/   
- }    
+}    
 ```
