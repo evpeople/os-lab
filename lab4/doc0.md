@@ -37,7 +37,7 @@
 
 # 程序代码
 
-```cpp
+```c
 #include<stdio.h>    
 #include <malloc.h>    
      

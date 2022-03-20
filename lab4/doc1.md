@@ -57,11 +57,11 @@ Swap显示交换空间的信息，与上一行类似——如果该行为全0则
 
 # 程序代码
 
-```
-# free
-# free -b -s5
-# vmstat
-# ps v
-# ping 192.168.1.7
-# kill -9 <PID>
+```bash
+free
+free -b -s5
+vmstat
+ps v
+ping 192.168.1.7
+kill -9 <PID>
 ```

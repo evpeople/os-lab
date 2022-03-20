@@ -133,7 +133,7 @@ off_t lseek(int fd, off_t offset,int whence);
 
 # 程序代码
 
-```cpp
+```c
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
