@@ -40,39 +40,39 @@
 
 编译完成
 
-![image-20220319113958134](doc.assets/image-20220319113958134.png)
+![image-20220319113958134](doc1.assets/image-20220319113958134.png)
 
 模块成功插入
 
-![image-20220319114141005](doc.assets/image-20220319114141005.png)
+![image-20220319114141005](doc1.assets/image-20220319114141005.png)
 
 ### 实验b
 
 用户态程序运行时段错误
 
-![image-20220319114423636](doc.assets/image-20220319114423636.png)
+![image-20220319114423636](doc1.assets/image-20220319114423636.png)
 
-![image-20220319114437238](doc.assets/image-20220319114437238.png)
+![image-20220319114437238](doc1.assets/image-20220319114437238.png)
 
 getCR3模块的输出和卸载
 
-![image-20220319114236884](doc.assets/image-20220319114236884.png)
+![image-20220319114236884](doc1.assets/image-20220319114236884.png)
 
 ### 实验c
 
 模块加载后dmesg输出
 
-![image-20220319114541299](doc.assets/image-20220319114541299.png)
+![image-20220319114541299](doc1.assets/image-20220319114541299.png)
 
 测试程序输出
 
-![image-20220319114503096](doc.assets/image-20220319114503096.png)
+![image-20220319114503096](doc1.assets/image-20220319114503096.png)
 
 ## 程序代码
 
 ### 实验a
 
- [lab1a.c](src\lab1a.c) 
+ [lab1a.c](src1\lab1a.c) 
 
 ```c
 #include<linux/kernel.h>
@@ -92,7 +92,7 @@ printk ( "Sorry! The testing module is unloading now! \n" ) ;
 
 ### 实验b
 
- [lab1b.c](src\lab1b.c) （模块编程）
+ [lab1b.c](src1\lab1b.c) （模块编程）
 
 ```c
 #include <linux/kernel.h>
@@ -112,7 +112,7 @@ printk ( "uninstall getcr3 ! \n" );
 
 
 
- [lab1b2.c](src\lab1b2.c) （用户空间）
+ [lab1b2.c](src1\lab1b2.c) （用户空间）
 
 ```c
 #include <stdio.h>
@@ -136,7 +136,7 @@ return 0;
 
 ### 实验c
 
- [lab1c.c](src\lab1c\lab1c.c) （模块编程）
+ [lab1c.c](src1\lab1c\lab1c.c) （模块编程）
 
 ```c
 /*一些必要的头文件*/
@@ -316,7 +316,7 @@ return 0;
 
 
 
- [Makefile](src\lab1c\Makefile) （对应的Makefile文件）
+ [Makefile](src1\lab1c\Makefile) （对应的Makefile文件）
 
 ```makefile
 
@@ -327,7 +327,7 @@ obj-m += lab1c.o
 else
 PWD :=$(shell pwd)
 KVER ?=$(shell uname -r)
-KDIR :=/usr/src/kernels/$(KVER)
+KDIR :=/usr/src1/kernels/$(KVER)
 all:
 	@echo $(MAKE) -C $(KDIR) M=$(PWD)
 	@$(MAKE) -C $(KDIR) M=$(PWD)  modules
@@ -339,7 +339,7 @@ endif
 
 
 
- [lab1test.c](src\lab1test.c) （用户空间测试文件）
+ [lab1test.c](src1\lab1test.c) （用户空间测试文件）
 
 ```c
 # include<stdio.h>
