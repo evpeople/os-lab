@@ -64,10 +64,89 @@ struct rtc_time {
 
 # 实验结果及分析
 
+## 实验结果
+
 ![code](1.png)
 ![Makefile](2.png)
 ![output](3.png)
 最终结果为累加求和总运行时间为55μs。
+
+## 另关于实验6-5-2的分析
+
+在选择内核时间管理部分的实验内容时，初选择的题目为6-5-2编写timer定时器。但因为笔者最终发现在Linux内核3.x版本中的定时器timer数据结构存在一些无法轻易调优的缺陷，而且内核产生了无法定位问题原因的软死锁，故放弃了该实验的进行转而进行本文的6-5-3。
+
+我们先假设系统的内核抢占已经被开启：
+```bash
+CONFIG_PREEMPT=y    //即在内核配置文件中修改内核抢占为开启
+```
+
+实验中的timer初始化回调函数是这样定义的：
+```c
+    static int __init timer_init(void)
+    {
+        printk("Start timer_example module...\n");
+        timer.expires = jiffies + 10 * HZ;
+        timer.function = print;
+        add_timer(&timer);
+        return 0;
+    }
+```
+看着没有任何问题的代码，看起来和死锁丝毫没有关系。
+
+当我们详细了解了Linux timer的执行原理后就会明白：
+
+* 挂载在同一CPU上的所有过期timer是顺序遍历执行的。
+
+* 一轮timer的顺序遍历执行是持有自旋锁的。
+
+这意味着在执行一轮过期timer的过程中，watchdog实时线程将无法被调度处理死锁，这意味着：
+
+* 同一CPU上的过期timer积累到一定量，其回调函数的延时之和大于20秒，将会产生soft lockup（软死锁）。
+
+        soft lockup是指CPU被内核代码占据，以至于无法执行其它进程的死锁情况。检测soft lockup的原理是给每个CPU分配一个定时执行的内核线程[watchdog/x]，如果该线程在设定的期限内没有得到执行的话就意味着发生了soft lockup，[watchdog/x]是SCHED_FIFO实时进程，优先级为最高的99，拥有优先运行的特权。
+
+
+**个人推测：实验中仅仅执行加载调度的print函数的timer，也有触发soft lockup的可能性。**
+
+得到这个推测前，我们需要先着手于Linux timer的工作机制来理清思路。
+
+可以把timer的执行过程抽象成下面的逻辑：
+```c
+    run_timers()
+    {
+      while (now > base.early_jiffies) {
+        for_each_timer(timer, base.list) {
+          detach_timer(timer)
+          forward_early_jiffies(base)
+          call_timer_fn(timer)
+        }
+      }
+    }
+```
+内核把当前过期的timer轮流执行到结束，而在系统开启内核抢占时，我们假设run_timers是在时钟中断退出时的软中断上下文中执行的，此时它不能被watchdog抢占。
+
+视角回到前文timer回调函数中执行修改延迟的操作：
+
+```c
+timer.expires = jiffies + 10 * HZ;
+```
+
+实际上它在逻辑处理中将timer又插回了list，如果我们把这个list看作是一条时间线的话，它事实上只是往后移了expires这么远的距离。
+
+假设所有timer的expire都是固定的常量，若：
+
+* 我们注册了足够多的timer，多到依据其expires重新填入队列时恰好能填补空隙。
+
+* 我们的timer回调函数耗时恰好和timer的expires一致。
+
+那么，一轮timer的执行将永远不会结束：
+
+![soft lockup](dlc1.png)
+![soft lockup](dlc2.png)
+
+单核跑满，timer已经拼接成龙，23秒后，我们将看到soft lockup。
+
+当然这只是不保证正确的一种猜想，作为这一大部分的小插曲记录在文档中。而通过后来的不断测试证明事实是只要在初始化函数中通过add_timer(&timer)注册timer就会无条件进入软死锁，原因未知。
 
 # 程序代码
 
