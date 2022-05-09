@@ -211,7 +211,7 @@ loff_t* offset)/*文件中的偏移*/
 	/*地址指针向后移一位*/
 	bytes_read ++;
 	/*读取的字节数增加1*/
-	printk( "Reading NO.% d character! \n" , bytes_read) ;
+	printk( "Reading NO.%d character! \n" , bytes_read) ;
 	}
 return bytes_read;/*read()函数返回一个真正读出的字节数*/
 }
